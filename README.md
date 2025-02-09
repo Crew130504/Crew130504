@@ -21,10 +21,9 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Spring_Framework_Logo_2018.svg" width="36" height="36" alt="Spring Boot" /></a>
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flask_logo.svg" width="36" height="36" alt="Flask" /></a>
-    <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Spring_Security_Logo.svg" width="36" height="36" alt="Spring Security" /></a>
-</p>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" width="36" height="36" alt="Spring Boot" /></a>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/460px-Flask_logo.svg.png" width="36" height="36" alt="Flask" /></a>
+  
 #
 ### Socials
 
