@@ -1,11 +1,8 @@
 # 👋 Hi there, I'm Juan Pablo
 
 🚀 Full Stack Software Developer | Co-founder at TY Solutions SAS  
-💻 Passionate about building scalable, efficient, and modern web applications  
-🌐 Working with technologies like Java, Python, JavaScript, React, Spring, Node.js, and cloud platforms  
-🔍 Interested in software architecture, automation, and AI  
-📍 Based in Bogotá, Colombia 🇨🇴
-
+* 💻 Passionate about building scalable, efficient, and modern web applications  
+* 🔍 Interested in software architecture, automation, and AI  
 <!--👀 I am interested in learning about the area of web development, especially the Back-end, while I search a new way to be a better me doing a lot of productive things.-->
 * 🌍  I'm based in Colombia
 * ✉  You can contact me at [juanpabloangulog@gmail.com](mailto:juanpabloangulog@gmail.com)
