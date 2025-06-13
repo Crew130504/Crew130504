@@ -29,7 +29,7 @@
 #
 ### Socials
 
-<p align="left"> <a href="https://x.com/Crewookiee?t=k2vK4O6dhNoGG7F5rY58Ig&s=08"><img src="https://pbs.twimg.com/media/F1zrsq8XsAUU7Lw.jpg:large" width="32" height="32" /></a> <a href="[https://www.github.com/deivis44](https://instagram.com/crewookiee?igshid=OGQ5ZDc2ODk2ZA==)" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/angulojp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://youtube.com/@Juan-vi7gv?si=X_UlW06p24mGlOuj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://x.com/Crewookiee?t=k2vK4O6dhNoGG7F5rY58Ig&s=08"><img src="https://pbs.twimg.com/media/F1zrsq8XsAUU7Lw.jpg:large" width="32" height="32" /></a> <a href="[https://www.github.com/crew130504](https://instagram.com/crewookiee?igshid=OGQ5ZDc2ODk2ZA==)" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/angulojp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://youtube.com/@Juan-vi7gv?si=X_UlW06p24mGlOuj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 #
 ### Badges
@@ -42,7 +42,7 @@
 <p align="left" style="display: inline-block;>
 
 <a href="http://www.github.com/crew130504">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=deivis44&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=crew130504&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 </p>
 
